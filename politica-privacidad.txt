@@ -1,0 +1,122 @@
+Política de privacidad de Phasis
+
+Última actualización: 10 de octubre de 2026  
+Aplicación: Phasis · Desarrollador: THEVION · País: Chile  
+Contacto de privacidad: thevion.systems@gmail.com (mailto:thevion.systems@gmail.com)
+
+En THEVION consideramos que los registros de salud merecen una protección especial. Esta política explica qué información utiliza Phasis, dónde se guarda, qué terceros intervienen y cómo puedes administrar tus datos. Se aplica al código de Phasis 1.10.1 preparado para la siguiente publicación. La política pública y la versión instalada deben coincidir: los cambios descritos no afectan las versiones antiguas que todavía estén instaladas.
+
+1. ¿Quién ofrece Phasis?
+
+THEVION es una marca de un proyecto de desarrollo independiente administrado por una persona natural en Chile, no una sociedad legalmente constituida. THEVION es la identificación comercial pública, no una afirmación de personalidad jurídica empresarial. Para solicitudes relativas a la privacidad, soporte y ejercicio de derechos relacionados con la aplicación, el canal de contacto es thevion.systems@gmail.com.
+
+2. ¿Qué es Phasis y para qué sirve?
+
+Phasis es una aplicación de seguimiento personal del ciclo menstrual, la salud urinaria y el bienestar cotidiano. Permite registrar menstruaciones, síntomas, estados de ánimo y otros indicadores; revisar calendarios, historiales, gráficos y estimaciones; llevar anotaciones de medicamentos, citas y recordatorios; registrar información asociada al embarazo o posparto y utilizar herramientas de seguimiento durante la perimenopausia.
+
+El contenido informativo también aborda temas relacionados con la menstruación, la salud urinaria y los cambios hormonales. Las personas que ya han atravesado la menopausia pueden encontrar útiles los registros generales de bienestar y salud urinaria, aunque las predicciones del ciclo pueden no resultar aplicables a su situación.
+
+Phasis es una herramienta de registro e información, no un dispositivo médico. No diagnostica enfermedades, no sustituye una consulta profesional, no confirma días fértiles o infértiles y no debe utilizarse como anticonceptivo.
+
+3. Público objetivo, edad y datos especialmente protegidos
+
+La próxima versión 1.10.1 está diseñada para personas de 16 años o más. Incluye personas adultas, adolescentes desde los 16 años, personas en perimenopausia y quienes ya atravesaron la menopausia. Las funciones se utilizan según la situación personal; las predicciones menstruales no son adecuadas para todos los casos.
+
+Al iniciar la aplicación, se pide día, mes y año de nacimiento para determinar si la persona tiene menos de 16 años, de 16 a 17 o 18 años o más. La fecha de nacimiento se utiliza temporalmente en el propio dispositivo; no se guarda ni se envía a THEVION. Solo se conserva de manera local y protegida la categoría de edad (adolescente de 16 a 17 años o persona adulta) y la confirmación de lectura y autorización del tratamiento local de datos de salud. El formulario se basa en la declaración de la propia persona, no verifica su identidad legal.
+
+Si la persona declara ser menor de 16 años, la aplicación no abre el diario. No existe en esta versión un mecanismo de autorización parental verificable para registrar datos sensibles de menores de 16 años. Por tanto, THEVION no dirige esta versión a ese público. Antes de ampliar la audiencia, deberán añadirse medidas jurídicas y técnicas para autorizar su uso y proteger esos datos.
+
+Para quienes declaren tener entre 16 y 17 años, la publicidad de la aplicación permanecerá desactivada. La comprobación declarativa de edad no constituye una garantía absoluta y puede no satisfacer los requisitos de verificación exigidos en determinadas jurisdicciones. Se recomienda revisar la normativa local antes de distribuir Phasis fuera de Chile.
+
+4. Información que utilizamos
+
+La información depende de las funciones que cada persona decida utilizar:
+
+- Diario menstrual y de bienestar: fechas y duración del ciclo, sangrado, dolor, síntomas, estado de ánimo, sueño, energía, hidratación, hábitos y notas voluntarias.
+- Salud urinaria: episodios y síntomas urinarios, aspecto de la orina, resultados o antecedentes que decidas transcribir, consultas y evolución registrada por ti.
+- Seguimiento personal: medicamentos, recordatorios, citas, información sobre embarazo, posparto, perimenopausia y preferencias de seguimiento cuando se utilicen esas secciones.
+- Perfil y ajustes: nombre, foto o correo opcionales, apariencia, preferencias de notificaciones y bloqueo de acceso; categoría etaria declarada (16 a 17 o 18+) y aceptación del aviso de privacidad, guardadas localmente.
+- Servicios de terceros: si se utilizan Google para iniciar sesión o anuncios de Google AdMob, esos proveedores pueden tratar datos técnicos o información de la interacción conforme a sus respectivas políticas.
+
+No es obligatorio completar todos los campos y no se debe registrar información de otras personas sin la autorización correspondiente.
+
+5. Finalidades del tratamiento
+
+Los registros introducidos en Phasis se utilizan principalmente dentro del dispositivo para presentar el diario, calcular estadísticas y estimaciones orientativas, mostrar historiales, activar recordatorios configurados por la persona usuaria y preparar los informes o respaldos que esta solicite.
+
+La información que se introduce en el diario de salud no se incorpora de forma deliberada a las solicitudes publicitarias y no se utiliza para crear perfiles comerciales de salud por parte de THEVION. La aplicación no dispone, en esta versión, de sincronización de esos registros con un servidor propio.
+
+6. Almacenamiento local y protección de datos
+
+La versión nativa de Phasis está configurada para guardar el diario en una base de datos SQLite cifrada mediante SQLCipher; la clave se conserva en el almacenamiento seguro del dispositivo. El uso de PIN o biometría constituye una protección adicional de acceso y no sustituye el cifrado.
+
+La información del diario permanece en el dispositivo salvo cuando la persona decide generar y compartir una exportación o un respaldo. THEVION no ofrece en esta versión una nube propia para sincronizar automáticamente los registros de salud.
+
+Si se pierde la clave local, se elimina la aplicación o se daña el dispositivo, la información podría no recuperarse. Es recomendable crear respaldos cifrados y guardar de forma segura sus contraseñas.
+
+7. Inicio de sesión opcional con Google
+
+Si se utiliza el inicio de sesión con Google, la aplicación puede recibir información básica del perfil autorizada durante ese proceso, como nombre, correo electrónico y foto. Google gestiona la autenticación conforme a sus propias condiciones y política de privacidad.
+
+Iniciar sesión con Google no sube el diario menstrual o urinario a Google ni crea una copia en la nube de Phasis. Tampoco significa que cada cuenta Google tenga un diario separado en un mismo dispositivo: los registros de salud siguen asociados al almacenamiento local de esa instalación. No se recomienda compartir el dispositivo y cambiar de perfil suponiendo que los diarios quedarán aislados por cuenta.
+
+Consulta la política de privacidad de Google (https://policies.google.com/privacy).
+
+8. Publicidad, consentimiento y protección de adolescentes
+
+Solo la versión Android, para quienes hayan confirmado ser mayores de 18 años, puede solicitar anuncios gestionados por Google AdMob, incluidos banners y otros formatos cuando estén habilitados. Phasis no solicita ni inicializa anuncios mientras la edad no haya sido confirmada, ni para quienes declaren tener entre 16 y 17 años.
+
+Antes de poder solicitar anuncios para personas adultas, el código obtiene el estado de consentimiento disponible mediante Google User Messaging Platform (UMP), cuando corresponda. Los anuncios se solicitan como no personalizados, y THEVION no añade los registros menstruales o urinarios a las peticiones publicitarias.
+
+Incluso los anuncios no personalizados pueden generar tratamiento de datos técnicos por Google, incluidos identificadores o información de dispositivo, ubicación aproximada o interacciones según las condiciones del servicio y la legislación aplicable. No se promete que desactivar la personalización equivalga a ausencia de recopilación de datos por Google.
+
+Las opciones de privacidad publicitaria están disponibles desde la sección de publicidad de la aplicación cuando se habilita el SDK. Los formatos de anuncio pueden variar o permanecer desactivados. UMP no sustituye el consentimiento parental ni el cumplimiento de las políticas relativas a menores de edad.
+
+Más información: Política de privacidad de Google (https://policies.google.com/privacy), Uso de datos en servicios asociados a Google (https://policies.google.com/technologies/partner-sites) y publicidad de Google (https://policies.google.com/technologies/ads).
+
+9. Permisos y funciones del dispositivo
+
+- Notificaciones: Phasis puede solicitar permiso para mostrar recordatorios de ciclo, registros o respaldo que actives. Puedes desactivarlos en la aplicación o en los ajustes del teléfono.
+- Biometría: si decides utilizarla, la verificación se realiza mediante las funciones del sistema operativo. THEVION no recibe ni almacena tus huellas digitales ni imágenes faciales.
+- Archivos y compartir: al importar respaldos o exportar informes, Phasis utiliza los selectores o mecanismos de compartir del dispositivo. El destino seleccionado puede tener sus propias condiciones de tratamiento.
+
+Los permisos pueden variar según Android, iOS y las características de cada versión. No todas las funciones requieren todos los permisos.
+
+10. Respaldos, informes y transferencias que eliges realizar
+
+Phasis puede crear un respaldo JSON cifrado con contraseña, diseñado para que la persona usuaria lo conserve y lo restaure voluntariamente. La contraseña no puede recuperarse desde THEVION. Versiones antiguas de respaldos sin cifrar pueden seguir siendo legibles por terceros y deben tratarse con precaución.
+
+También es posible generar informes PDF que contienen información personal o de salud. Si decides enviarlos, guardarlos en una nube externa o compartirlos, el proveedor del destino y las personas receptoras podrían acceder a ellos. THEVION no controla los archivos una vez exportados fuera de la aplicación.
+
+11. Conservación, acceso y eliminación
+
+Los registros se mantienen en el almacenamiento local mientras no se eliminen mediante las funciones de Phasis o la eliminación de los datos de la aplicación. Desde la propia aplicación puedes consultar y modificar información, preparar exportaciones y utilizar la función de eliminación del diario activo.
+
+La eliminación local comprende los datos activos administrados por la aplicación y sus claves asociadas conforme al funcionamiento implementado. No elimina automáticamente informes, respaldos previamente exportados, archivos enviados a otras personas ni datos tratados por servicios externos según sus propias políticas.
+
+Para consultas adicionales sobre privacidad puedes escribir a thevion.systems@gmail.com. THEVION podrá orientar respecto de las funciones locales, pero no puede recuperar registros que nunca fueron enviados a un servidor del desarrollador.
+
+12. Seguridad y riesgos residuales
+
+Phasis incorpora mecanismos de cifrado, bloqueo local y herramientas para administrar respaldos. Ninguna medida ofrece seguridad absoluta. Una persona con acceso al teléfono desbloqueado, a una exportación compartida o a una contraseña de respaldo podría acceder a información sensible. Recomendamos proteger el dispositivo y revisar cuidadosamente el contenido antes de compartir archivos o capturas.
+
+13. Salud y precisión de la información
+
+Las estimaciones del ciclo, ovulación y bienestar son orientativas y dependen de la información ingresada. No sirven para determinar con certeza fertilidad, confirmar o descartar infecciones urinarias ni decidir tratamientos. En presencia de síntomas relevantes, persistentes o graves debe consultarse a un profesional sanitario.
+
+14. Modificaciones de esta política
+
+Esta política podrá actualizarse cuando cambien las funciones de Phasis, las prácticas de tratamiento o los servicios integrados. La fecha de actualización aparecerá al inicio del documento. Si los cambios requieren nuevas autorizaciones o avisos, se proporcionarán de acuerdo con la normativa aplicable.
+
+15. Derechos sobre información personal y consultas
+
+Puedes revisar, rectificar y borrar datos dentro de Phasis. Para solicitar información sobre el manejo de datos vinculados a contacto por correo, puedes escribir a THEVION. El tratamiento de datos por Google y por servicios a los que envíes copias se rige también por sus respectivas condiciones; debes gestionar allí los derechos que correspondan. La aplicación no crea una cuenta de servidor propia ni permite a THEVION recuperar información que solo está cifrada en tu dispositivo.
+
+La legislación aplicable puede reconocer otros derechos, como acceso, oposición o portabilidad. Se responderán las solicitudes dentro de los plazos legales correspondientes y se indicará si existen límites técnicos razonables (por ejemplo, imposibilidad de acceder a una base cifrada que nunca fue transmitida al desarrollador).
+
+16. Consultas y contacto
+
+THEVION — proyecto de desarrollo independiente, Chile  
+Correo: thevion.systems@gmail.com (mailto:thevion.systems@gmail.com)
+
+Puedes contactar para formular preguntas sobre privacidad, seguridad o el uso de tus datos en Phasis. Al enviar un correo desde tu dispositivo, el contenido que decidas incluir será tratado por tu proveedor de correo y por el canal de soporte para atender tu solicitud. Evita adjuntar información clínica innecesaria.
