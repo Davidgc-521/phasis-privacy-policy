@@ -1,0 +1,53 @@
+Política de privacidad de Phasis
+
+Última actualización: 17 de octubre de 2026.
+
+Phasis es un diario de bienestar menstrual y salud urinaria dirigido a personas de 18 años o más. Esta política explica qué información usa la versión 1.9.3, dónde queda y qué servicios externos intervienen. Puedes leerla dentro de la app sin iniciar sesión.
+
+1. Quién gestiona Phasis
+
+Phasis es un proyecto de desarrollo independiente identificado públicamente como THEVION. «THEVION SYSTEMS», nombre usado en el soporte de la app, es una denominación del proyecto y no afirma que exista una sociedad legalmente constituida. Su punto de contacto está en Los Andes, Región de Valparaíso, Chile. Para consultas sobre privacidad, escribe a thevion.systems@gmail.com. El correo de soporte es el mismo. La app no envía mensajes a esta dirección por sí sola: tú decides si abres y envías un correo.
+
+2. Información que eliges registrar
+
+Puedes ingresar un nombre y correo de perfil, fechas de menstruación, síntomas, dolor, ánimo, energía, sueño, hidratación, salud urinaria, embarazo o posparto, perimenopausia, medicamentos, citas y notas. Los campos opcionales pueden quedar vacíos. La app también guarda tus preferencias, recordatorios e historial de informes en el dispositivo. Parte de esta información es sensible porque se refiere a tu salud o vida íntima.
+
+Phasis usa esos datos para mostrar tu diario, calendario, tendencias, referencias de ciclo, recordatorios e informes que solicites. Las estimaciones son orientativas; no confirman ovulación, embarazo ni diagnósticos y no deben utilizarse como anticonceptivo. Phasis no sustituye una consulta profesional.
+
+3. Almacenamiento y copias
+
+El diario se guarda en el dispositivo en una base de datos cifrada; la clave se mantiene en el almacén seguro del sistema. No existe una cuenta de Phasis ni sincronización automática del diario con un servidor propio. El PIN o la biometría son controles de acceso adicionales. La biometría la gestiona el sistema del teléfono: Phasis no recibe huellas ni imágenes faciales.
+
+Puedes crear un respaldo cifrado protegido con la contraseña que eliges. Si la olvidas, Phasis no puede recuperarlo. La app admite importar respaldos antiguos sin cifrar: antes de compartir uno, comprueba su contenido. Los PDF y otros informes que exportas pueden contener datos de salud y no están cifrados por Phasis. Al guardarlos o enviarlos mediante otra aplicación, pasan a estar bajo el control del destino que elijas.
+
+Los datos locales permanecen hasta que los edites, los borres desde Configuración o desinstales la app. Borrar el diario elimina la base activa y su clave local, el PIN y los avisos programados; no elimina archivos que ya hayas exportado, copias del sistema o mensajes que hayas enviado a otra persona.
+
+4. Servicios externos opcionales
+
+Si eliges iniciar sesión con Google, Phasis solicita nombre, correo, identificador de cuenta y foto de perfil para mostrar tu identidad en la app. Google procesa el inicio de sesión conforme a su política. Iniciar sesión no sincroniza el diario de salud con Google ni con un servidor de Phasis. Cambiar de cuenta de Google en el mismo teléfono no crea diarios separados: los registros siguen asociados a esa instalación. Puedes usar Phasis sin Google.
+
+El asistente funciona localmente por defecto. Si una versión futura configura y tú activas expresamente el modo en la nube, la pregunta que escribas y un resumen limitado de registros recientes se enviarán al servicio indicado en ese momento. La versión entregada no incluye un destino de IA en la nube configurado; si eso cambia, la política deberá identificar al proveedor y su tratamiento antes de activarlo.
+
+Los recordatorios se programan en el dispositivo y requieren el permiso de notificaciones cuando corresponde. El soporte prepara un borrador de correo con datos técnicos básicos, como versión de la app y sistema operativo; puedes revisarlo antes de enviarlo. No adjunta el diario automáticamente.
+
+5. Publicidad en Android
+
+La versión Android puede mostrar anuncios de Google AdMob en Inicio, Insights y Biblioteca, así como anuncios de pantalla completa limitados a ciertas pausas o a la pantalla de apertura. iOS no solicita anuncios en esta versión. El diario sigue disponible aunque no se cargue un anuncio.
+
+Phasis consulta las opciones de consentimiento de Google antes de solicitar publicidad y permite revisarlas en «Publicidad y privacidad». La app solicita anuncios no personalizados y no añade tus registros de salud, notas ni datos del perfil a las solicitudes publicitarias. Google y sus colaboradores pueden tratar datos técnicos, dirección IP, identificadores del dispositivo o publicitarios e interacciones con anuncios para entrega, medición y prevención de fraude. «No personalizados» no significa «sin tratamiento de datos». Consulta la política de Google en https://policies.google.com/technologies/ads.
+
+6. Tus opciones y solicitudes
+
+Puedes consultar y corregir tus registros en Phasis, exportar un respaldo o informe, eliminar el diario en Configuración y revisar las opciones publicitarias cuando estén disponibles. Para consultas sobre datos o solicitudes que no puedas resolver en la app, escribe a thevion.systems@gmail.com. Incluye solo la información necesaria; no envíes detalles de salud por correo si no quieres compartirlos.
+
+Phasis no puede borrar copias que hayas entregado a otros servicios o personas. Si contactas por correo, el mensaje queda en tu servicio de correo y se usa para responder a tu solicitud.
+
+7. Seguridad y límites
+
+La app utiliza cifrado local y ofrece PIN o biometría opcionales. Protege también el teléfono con sus propias medidas de seguridad. Ningún método evita todos los riesgos: un archivo exportado, una copia del dispositivo o una persona con acceso al teléfono pueden exponer información. Comparte respaldos e informes solo con destinatarios de confianza.
+
+8. Edad y cambios
+
+Phasis está dirigida exclusivamente a personas de 18 años o más. La app no verifica la edad; si eres menor, no la uses ni ingreses datos personales o de salud. La edad objetivo declarada en la tienda debe coincidir con esta política.
+
+Si cambian las funciones, los servicios externos o la forma de tratar datos, actualizaremos esta política y su fecha antes de poner esos cambios a disposición de las personas usuarias. Puedes solicitar la versión vigente mediante el correo de privacidad.
